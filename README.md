@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MannuMourya
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Computer Applications
-- 📫 How to reach @MannuMouryaa (twitter)
+
 
 <!---
 MannuMourya/MannuMourya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
